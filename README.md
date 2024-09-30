@@ -25,7 +25,7 @@ The **WhatsApp Translator** is a Chrome extension designed to enhance the functi
    git clone https://github.com/yourusername/whatsapp-translate-extension.git
 
 ### Instructions
-1. `(https://github.com/JabulaniUsen)`.
-2. `(mailto:your.jabulanietokakpan@example.com)`.
+1. `https://github.com/JabulaniUsen`.
+2. `jabulanietokakpan@example.com`.
 
 
